@@ -15,4 +15,6 @@ Party:
 Testing:
   state: active
 Welcome:
+  state: inactive
+Coupwork:
   state: active
