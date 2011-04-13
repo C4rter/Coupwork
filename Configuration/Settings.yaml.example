@@ -1,0 +1,6 @@
+FLOW3:
+  persistence: 
+    backendOptions:
+      dataSourceName: 'mysql:host=localhost;dbname=database'
+      username: username
+      password: password
